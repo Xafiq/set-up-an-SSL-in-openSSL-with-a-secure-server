@@ -148,7 +148,7 @@ chmod +x check_ssl.sh
 - [ ] Run the script by specifying its name. You may also need to provide any necessary arguments. Assuming no additional arguments are needed for this example, you should run:
 
 ```sh
-./check-rules.sh
+./check_ssl.sh
 ```
 
 - [ ] Upload your results. Running the script will create a report.json file, which you should copy and paste into the root of this project.
